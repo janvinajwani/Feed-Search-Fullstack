@@ -17,7 +17,7 @@ Source code is downloaded from the repository.
 Run Steps:
 Open IntelliJ IDE.
 Navigate to File -> Open and select **FeedProject folder**.
-In the project structure, navigate to src -> main.
+In the project structure, navigate to src -> main -> java.
 Locate and right-click on FeedProjectApplication.java.
 Select Run FeedProjectApplication.main().
 
@@ -33,7 +33,7 @@ VS Code is installed.
 
 Run Steps:
 Open VS Code.
-Open Folder **Searchfeed**
+Open Folder **Searchfeed**.
 Open a new terminal in VS Code and execute the following commands:
-npm i
-ng serve
+1. npm i
+2. ng serve
